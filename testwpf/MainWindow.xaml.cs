@@ -36,6 +36,7 @@ namespace testwpf
             txt_Age.Clear();
 
         }
+        //load grid1
         public void LoadGrid()
         {
             SqlCommand cmd = new SqlCommand("select * from PersonalDetails", con);

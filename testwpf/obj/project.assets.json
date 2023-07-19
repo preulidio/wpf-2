@@ -476,11 +476,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PRECO\\source\\repos\\testwpf\\testwpf\\testwpf.csproj",
+      "projectUniqueName": "C:\\Users\\PRECO\\Source\\Repos\\wpf-2\\testwpf\\testwpf.csproj",
       "projectName": "testwpf",
-      "projectPath": "C:\\Users\\PRECO\\source\\repos\\testwpf\\testwpf\\testwpf.csproj",
+      "projectPath": "C:\\Users\\PRECO\\Source\\Repos\\wpf-2\\testwpf\\testwpf.csproj",
       "packagesPath": "C:\\Users\\PRECO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PRECO\\source\\repos\\testwpf\\testwpf\\obj\\",
+      "outputPath": "C:\\Users\\PRECO\\Source\\Repos\\wpf-2\\testwpf\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

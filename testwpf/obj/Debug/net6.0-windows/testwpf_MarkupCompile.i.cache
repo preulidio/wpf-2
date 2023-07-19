@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\PRECO\source\repos\testwpf\testwpf\obj\Debug\net6.0-windows\
+C:\Users\PRECO\Source\Repos\wpf-2\testwpf\obj\Debug\net6.0-windows\
 testwpf
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\PRECO\source\repos\testwpf\testwpf\App.xaml
+C:\Users\PRECO\Source\Repos\wpf-2\testwpf\App.xaml
 11407045341
 
 51809831212
 1951146383422
 MainWindow.xaml;
 
-True
+False
 
